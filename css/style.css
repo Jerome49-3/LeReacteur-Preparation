@@ -203,6 +203,9 @@ section#aboutme figcaption p:last-child {
 }
 
 /**************** SECTION EDUCATION ************************/
+section#education figure div{
+    padding: 20px;
+}
 
 section#education img {
     height: 100px;
