@@ -294,6 +294,17 @@ section#Contact div a:hover span p {
 section#Contact div a:last-child {
     gap: 2.5px;
 }
+/******************* FOOTER ************************/
+footer p,
+footer a{
+    color: #eeeef7;
+}
+
+/**************** MEDIA QUERIES ********************/
+
+@media screen and (max-width: 1024px) {
+    
+}
 
 /**************** KEYFRAMES ************************/
 
