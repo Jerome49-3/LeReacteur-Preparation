@@ -247,7 +247,11 @@ section#Projects li {
     line-height: 30px;
     list-style: disc;
 }
-
+section#Projects figure a{
+    flex-direction: row;
+    display: flex;
+    text-decoration: none;
+}
 /**************** SECTION CONTACT ************************/
 section#Contact {
     background: #eeeef7;
